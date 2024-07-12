@@ -1,0 +1,21 @@
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.box_nav{
+  position: absolute;
+}
+.box_nav img {
+  margin-top: -15%;
+}
+header{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.dadosUsuario{
+  display: flex;
+  justify-content: space-between;
+}
